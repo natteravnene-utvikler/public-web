@@ -1,0 +1,5 @@
+AGENTS.md
+.env
+db/
+docker-compose.yml
+wordpress/
